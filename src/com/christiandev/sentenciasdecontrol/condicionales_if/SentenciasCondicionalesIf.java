@@ -1,4 +1,4 @@
-package com.christiandev.sentenciasdecontrol;
+package com.christiandev.sentenciasdecontrol.condicionales_if;
 
 public class SentenciasCondicionalesIf {
     public static void main(String[] args) {

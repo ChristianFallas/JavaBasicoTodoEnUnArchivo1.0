@@ -1,4 +1,4 @@
-package com.christiandev;
+package com.christiandev.tipos_datos_primitivos;
 
 public class TiposDeDatos {
     // En Java existen dos tipos de datos los primitivos y los datos de referencia.
@@ -16,6 +16,10 @@ public class TiposDeDatos {
     char example9 = 'a';
 
     // Tipos de datos envoltorios o de referencia.
+    /*
+    * Loque son los strings y los arrays, ya no son tipos de datos primitivos mas bien son tipos de datos complejos
+    * En el repositorio JavaBasicoTiposDeDatosComplejosTodoEnUnArchivo ahi mas informacion al respecto.
+    */
 
     String example10 = "Hola soy una colección de caracteres";
 

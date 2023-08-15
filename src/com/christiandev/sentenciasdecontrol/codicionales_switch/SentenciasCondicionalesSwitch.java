@@ -1,4 +1,4 @@
-package com.christiandev.sentenciasdecontrol;
+package com.christiandev.sentenciasdecontrol.codicionales_switch;
 
 public class SentenciasCondicionalesSwitch {
     public static void main(String[] args) {

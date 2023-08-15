@@ -1,4 +1,4 @@
-package com.christiandev.sentenciasdecontrol;
+package com.christiandev.sentenciasdecontrol.bucle_for;
 
 public class SentenciasDeBucleFor {
     public static void main(String[] args) {

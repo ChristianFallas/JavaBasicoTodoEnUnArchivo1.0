@@ -1,4 +1,4 @@
-package com.christiandev.sentenciasdecontrol;
+package com.christiandev.sentenciasdecontrol.bucle_while;
 
 public class SentenciaDeBucleWhile {
     public static void main(String[] args) {
